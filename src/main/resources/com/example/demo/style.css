@@ -1,0 +1,75 @@
+/* Стиль для текста (Text) */
+.text {
+    -fx-font-family: Arial;
+    -fx-font-size: 18px;
+    -fx-text-fill: red; /* Цвет текста */
+    -fx-effect: dropshadow(three-pass-box, black, 5, 0.5, 0, 0); /* Эффект тени */
+}
+
+/* Стиль для изображений (ImageView) */
+.image-view {
+    -fx-effect: dropshadow(three-pass-box, black, 5, 0.5, 0, 0); /* Эффект тени */
+}
+
+/* Стиль для ярлыка (Label) */
+.label {
+    -fx-font-family: Arial;
+    -fx-font-size: 18px;
+    -fx-text-fill: red; /* Цвет текста */
+    -fx-effect: dropshadow(three-pass-box, black, 5, 0.5, 0, 0); /* Эффект тени */
+}
+
+/* Стиль для текстового поля (TextField) */
+.text-field {
+    -fx-font-family: Arial;
+    -fx-font-size: 16px;
+    -fx-text-fill: black; /* Цвет текста */
+    -fx-background-color: #FFC0CB; /* Цвет фона */
+    -fx-border-color: red; /* Цвет рамки */
+    -fx-border-width: 2px; /* Толщина рамки */
+}
+
+/* Стиль для кнопки (Button) */
+.button {
+    -fx-font-family: Arial;
+    -fx-font-size: 16px;
+    -fx-text-fill: white; /* Цвет текста */
+    -fx-background-color: red; /* Цвет фона */
+    -fx-border-color: black; /* Цвет рамки */
+    -fx-border-width: 2px; /* Толщина рамки */
+}
+
+/* При наведении курсора на кнопку (Button) */
+.button:hover {
+    -fx-background-color: darkred; /* Цвет фона при наведении */
+}
+.countdown-text {
+    -fx-font-family: Arial;
+    -fx-font-size: 24px;
+    -fx-text-fill: red; /* Цвет текста */
+    -fx-effect: dropshadow(three-pass-box, black, 5, 0.5, 0, 0); /* Эффект тени */
+}
+
+/* Стиль для счета (Text) */
+.score-text {
+    -fx-font-family: Arial;
+    -fx-font-size: 24px;
+    -fx-text-fill: red; /* Цвет текста */
+    -fx-effect: dropshadow(three-pass-box, black, 5, 0.5, 0, 0); /* Эффект тени */
+}
+
+/* Стиль для имен гладиаторов (Text) */
+.gladiator-name {
+    -fx-font-family: Arial;
+    -fx-font-size: 18px;
+    -fx-text-fill: red; /* Цвет текста */
+    -fx-effect: dropshadow(three-pass-box, black, 5, 0.5, 0, 0); /* Эффект тени */
+}
+
+/* Стиль для описания урона гладиаторов (Text) */
+.damage-description {
+    -fx-font-family: Arial;
+    -fx-font-size: 14px;
+    -fx-text-fill: red; /* Цвет текста */
+    -fx-effect: dropshadow(three-pass-box, black, 5, 0.5, 0, 0); /* Эффект тени */
+}
