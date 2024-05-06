@@ -906,3 +906,15 @@ SERVER STARTED
 2024-05-06 19:51:36 INFO  Colosseum:73 - 
 
 SERVER STARTED
+2024-05-06 20:31:45 INFO  Colosseum:73 - 
+
+SERVER STARTED
+2024-05-06 20:32:11 INFO  Colosseum:73 - 
+
+SERVER STARTED
+2024-05-06 20:32:13 INFO  Colosseum:282 - Client 0 connected
+2024-05-06 20:32:13 INFO  Colosseum:282 - Client 1 connected
+2024-05-06 20:32:13 INFO  Colosseum:282 - Client 2 connected
+2024-05-06 20:32:13 INFO  Colosseum:282 - Client 3 connected
+2024-05-06 20:32:13 INFO  Colosseum:111 - the client sm-1 sent number
+2024-05-06 20:32:13 INFO  Colosseum:115 - the client th-1 sent number

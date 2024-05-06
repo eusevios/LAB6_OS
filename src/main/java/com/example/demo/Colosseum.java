@@ -273,7 +273,6 @@ public class Colosseum extends Application implements Initializable {
         int num = Integer.parseInt(number);
         try {
             for(int i = 0; i < 2*num; i++){
-
                 String command = "LAB5_CLIENT.exe";
                 ProcessBuilder pb = new ProcessBuilder(command);
 
@@ -292,6 +291,7 @@ public class Colosseum extends Application implements Initializable {
                 thread.start();
 
                 setVisibleMainMenu(false);
+
 
             }
 
